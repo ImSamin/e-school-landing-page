@@ -9,8 +9,9 @@ body{
 /* Navber
 ********************* */
 .navbar{
-    background-color: #F0FFF0;
+    background-color: #f0fff0;
     padding-top: none;
+
 }
 
 .navbar-brand img{
@@ -19,11 +20,11 @@ body{
 
 .nav-link{
     margin-left: 20px;
-    color: black;
+    color: black !important;
     font-weight: 700;
 }
 .nav-link:hover{
-    color: #21B573;
+    color: #21B573 !important;
 }
 
 .sign-in{
