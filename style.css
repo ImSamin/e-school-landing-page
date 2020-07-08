@@ -122,9 +122,17 @@ margin-left:0px;
     border: none;
 }
 
+.card-footer small{
+     color: #585859;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 24px;
+}
+
 .courses{
-    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 18px 18px 5px 5px;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px 18px 18px 18px;
+    overflow: hidden;
     
     
    
